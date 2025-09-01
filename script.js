@@ -1,10 +1,10 @@
 // WhatsApp numbers array - Add your consultant numbers here
 const whatsappNumbers = [
-    '5511999999999', // Consultor 1
-    '5511888888888', // Consultor 2  
-    '5511777777777', // Consultor 3
-    '5511666666666', // Consultor 4
-    '5511555555555'  // Consultor 5
+    '5543996349824', // Consultor 1
+    '5543996349824', // Consultor 2  
+    '5543996349824', // Consultor 3
+    '5543996349824', // Consultor 4
+    '5543996349824'  // Consultor 5
 ];
 
 // Function to get random WhatsApp number
